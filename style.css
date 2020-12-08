@@ -1,0 +1,21 @@
+.heading {
+    font-size:23px;
+    width: 100%;
+    margin: 10px;
+    box-shadow:5px 5px 5px rgb(107, 103, 103);
+}
+
+.note{
+    font-size: 15px;
+    color: rgba(223, 55, 55, 0.788);
+}
+
+.copy_right_footer{
+    color: rgb(66, 17, 245);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(68, 65, 65);
+    line-height: 3;
+    text-align: center;
+    font-size: 15px;
+}
